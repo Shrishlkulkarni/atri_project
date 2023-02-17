@@ -1,0 +1,18 @@
+{
+  "BarChart": 2,
+  "TextBox": 203,
+  "Flex": 30,
+  "Button": 114,
+  "Image": 107,
+  "Div": 71,
+  "Modal": 3,
+  "Link": 1,
+  "Cascader": 2,
+  "VerticalMenu": 1,
+  "Form": 2,
+  "Input": 8,
+  "Overlay": 1,
+  "Accordion": 1,
+  "Carousel": 1,
+  "Testimonial": 1
+}

@@ -1,0 +1,113 @@
+{
+  "icon.png": {
+    "mime": "image/png"
+  },
+  "burger.jpg": {
+    "mime": "image/jpeg"
+  },
+  "burger.png": {
+    "mime": "image/png"
+  },
+  "poster.png": {
+    "mime": "image/png"
+  },
+  "breakfast.png": {
+    "mime": "image/png"
+  },
+  "Main.png": {
+    "mime": "image/png"
+  },
+  "drinks.png": {
+    "mime": "image/png"
+  },
+  "Desserts.png": {
+    "mime": "image/png"
+  },
+  "burger_cleanup.png": {
+    "mime": "image/png"
+  },
+  "burgur.png": {
+    "mime": "image/png"
+  },
+  "milkshake.png": {
+    "mime": "image/png"
+  },
+  "fries.png": {
+    "mime": "image/png"
+  },
+  "pancakes.png": {
+    "mime": "image/png"
+  },
+  "icecream.png": {
+    "mime": "image/png"
+  },
+  "chicken.png": {
+    "mime": "image/png"
+  },
+  "egg.png": {
+    "mime": "image/png"
+  },
+  "soda.png": {
+    "mime": "image/png"
+  },
+  "bigburger.png": {
+    "mime": "image/png"
+  },
+  "stars.png": {
+    "mime": "image/png"
+  },
+  "left.png": {
+    "mime": "image/png"
+  },
+  "right.png": {
+    "mime": "image/png"
+  },
+  "article_burger.png": {
+    "mime": "image/png"
+  },
+  "article.png": {
+    "mime": "image/png"
+  },
+  "wedges.png": {
+    "mime": "image/png"
+  },
+  "fried.png": {
+    "mime": "image/png"
+  },
+  "cake.png": {
+    "mime": "image/png"
+  },
+  "3burger.png": {
+    "mime": "image/png"
+  },
+  "a_burger.png": {
+    "mime": "image/png"
+  },
+  "french.png": {
+    "mime": "image/png"
+  },
+  "insta.png": {
+    "mime": "image/png"
+  },
+  "wedge.png": {
+    "mime": "image/png"
+  },
+  "cocacola.png": {
+    "mime": "image/png"
+  },
+  "hotdog.png": {
+    "mime": "image/png"
+  },
+  "loc.png": {
+    "mime": "image/png"
+  },
+  "call.png": {
+    "mime": "image/png"
+  },
+  "mail.png": {
+    "mime": "image/png"
+  },
+  "matt.png": {
+    "mime": "image/png"
+  }
+}
